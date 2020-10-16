@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Armored Corp Legionnaires Battalion
 
-You can use the [editor on GitHub](https://github.com/Armored-Corp-Legionnaires/Armored-Corp_Legionnaires.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are an Armored Warfare Battalion that, well, plays Armored Warfare.  This is a place holder text, so just roll with it for now.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More test text.
 
 ### Markdown
 
